@@ -21,7 +21,7 @@
 ### 🛠️ Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,python,mysql,go,docker,kubernetes,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,python,mysql,go,rust,docker,kubernetes,git,github,figma" />
 </p>
 
 ---
