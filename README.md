@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Monika Jakhar</h1>
+<h1 align="center">Hi 👋, I'm Monika Jakhar</h1>
 <p align="center">
   Frontend Developer • Open Source Contributor • Full-Stack
 </p>
