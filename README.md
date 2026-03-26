@@ -14,7 +14,7 @@
 - Frontend Developer | Aspiring **Full-Stack & Open Source Contributor**
 - Committed to **clean, scalable, and maintainable code**
 - Focused on **problem-solving** and building robust logic
-- Based in India 🇮🇳
+- Based in India 🇮🇳 
 
 ---
 
