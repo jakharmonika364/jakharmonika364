@@ -57,20 +57,17 @@
   <a href="https://leetcode.com/u/monika_jakhar04/">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="38" alt="LeetCode" />
   </a>
-  <a href="https://codolio.com/profile/Ayush-Patel-56">
+  <a href="https://codolio.com/profile/monika5">
     <img src="https://www.google.com/s2/favicons?domain=codolio.com&sz=64" height="38" alt="Codolio" />
   </a>
-  <a href="https://www.geeksforgeeks.org/AyushPatel56/">
+  <a href="https://www.geeksforgeeks.org/jakharmoa9a5">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="38" alt="GeeksforGeeks" />
   </a>
-  <a href="https://www.codechef.com/users/ayushrpp25">
+  <a href="https://www.codechef.com/users/monikap25">
     <img src="https://cdn.codechef.com/images/cc-logo.svg" height="38" alt="CodeChef" />
   </a>
-  <a href="https://discord.com/SANGUINE_">
+  <a href="https://discord.com/">
     <img src="https://skillicons.dev/icons?i=discord" height="38" alt="Discord" />
-  </a>
-  <a href="https://x.com/AyushPatel19592">
-    <img src="https://skillicons.dev/icons?i=twitter" height="38" alt="X (Twitter)" />
   </a>
   <a href="https://instagram.com/_monika_jakhar05">
     <img src="https://skillicons.dev/icons?i=instagram" height="38" alt="Instagram" />
