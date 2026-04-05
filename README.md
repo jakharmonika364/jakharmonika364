@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Monika Jakhar</h1>
 <p align="center">
-  Frontend Developer • Open Source Contributor • Full-Stack
+  Data Analyst • Open Source Contributor • Full-Stack
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- Frontend Developer | **Full-Stack & Open Source Contributor**
+- Data Analyst | **Full-Stack & Open Source Contributor**
 - Committed to **clean, scalable, and maintainable code**
 - Focused on **problem-solving** and building robust logic
 - Based in India 🇮🇳 
