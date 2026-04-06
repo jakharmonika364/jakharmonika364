@@ -12,8 +12,8 @@
 ### 👨‍💻 About Me
 
 - Data Analyst | **Full-Stack & Open Source Contributor**
-- Committed to **clean, scalable, and maintainable code**
-- Focused on **problem-solving** and building robust logic
+- Passionate about clean architecture and performance
+- Actively refining algorithmic skills on LeetCode
 - Based in India 🇮🇳 
 
 ---
