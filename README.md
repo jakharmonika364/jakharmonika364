@@ -14,7 +14,6 @@
 - Data Analyst | **Full-Stack & Open Source Contributor**
 - Passionate about clean architecture and performance
 - Actively refining algorithmic skills on LeetCode
-- Based in India 🇮🇳 
 
 ---
 
