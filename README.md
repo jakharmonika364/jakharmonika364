@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Monika Jakhar</h1>
 <p align="center">
-  Data Analyst • Open Source Contributor • Full-Stack
+  Data Analyst • Systems Engineer in Training • CNCF Contributor • Kyverno, Fluid
 </p>
 
 <p align="center">
@@ -11,9 +11,11 @@
 
 ### 👨‍💻 About Me
 
-- Data Analyst | **Full-Stack & Open Source Contributor**
-- Passionate about clean architecture and performance
-- Actively refining algorithmic skills on LeetCode
+- Data Analyst | Open source contributor
+- Comfortable across Go, Python, Rust, and TypeScript
+- Particularly interested in Kubernetes controllers, policy engines, 
+  API security, and production systems
+- Currently extending into AI/voice systems and applied ML infrastructure
 
 ---
 
