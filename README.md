@@ -1,129 +1,72 @@
-# Hi 👋, I'm Monika Jakhar
+<h1 align="center">Hi, I'm Monika Jakhar 👋</h1>
 
 <p align="center">
-  Data Analyst • Systems Engineer in Training • CNCF Contributor • Kyverno, Fluid
+  <b>Open Source Maintainer · Cloud-Native Engineer · Full-Stack Developer · Data & ML</b>
 </p>
-
 
 <p align="center">
-  <img
-    src="https://hits.sh/github.com/jakharmonika364.svg?label=Profile%20views&color=0e75b6&style=flat&extraCount=1395"
-    alt="Profile views"
-  />
+  <a href="https://www.linkedin.com/in/monika-jakhar-186a04361"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>
+  <a href="https://github.com/Coder-s-OG-s/Trajectory-IR"><img src="https://img.shields.io/badge/Maintainer-Trajectory--IR-00ADD8?style=flat&logo=go&logoColor=white" alt="Trajectory-IR Maintainer" /></a>
+  <img src="https://hits.sh/github.com/jakharmonika364.svg?label=Profile%20views&color=0e75b6&style=flat&extraCount=1395" alt="Profile views" />
 </p>
-
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- Data Analyst | Open source contributor
-- Comfortable across Go, Python, Rust, and TypeScript
-- Particularly interested in Kubernetes controllers, policy engines, API security, and production systems
-- Currently extending into AI/voice systems and applied ML infrastructure
+I build and maintain open-source software in the cloud-native ecosystem, with a foundation in data analysis and full-stack development. I enjoy working close to production systems, where reliability, security and clean design matter most.
+
+- 🔭 **Maintainer** of [Trajectory-IR](https://github.com/Coder-s-OG-s/Trajectory-IR), a Go-based open-source project heading toward the **CNCF Sandbox**
+- 🤝 **Core Maintainer** at [Coder's OG's](https://github.com/Coder-s-OG-s), an open builders community for open-source collaboration
+- ☁️ **CNCF / Open Source Contributor** across cloud-native projects
+- 🎯 Interested in Kubernetes controllers, policy engines, API security and AI/ML infrastructure
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Open Source
 
-#### 🐍 Data Science & Analysis
+| Project | Role | About |
+| :-- | :-- | :-- |
+| [**Trajectory-IR**](https://github.com/Coder-s-OG-s/Trajectory-IR) | Maintainer | Portable, hash-verifiable intermediate representation for AI agent execution trajectories, written in Go. Targeting the CNCF Sandbox. |
+| [**Coder's OG's**](https://github.com/Coder-s-OG-s) | Core Maintainer | Open builders community focused on collaboration, open-source contribution and real-world projects. |
+| **CNCF ecosystem** | Contributor | Contributions to cloud-native projects in policy management, data orchestration and resilience testing. |
+
+---
+
+### Tech Stack
+
+| Area | Stack |
+| :-- | :-- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=go,py,rust,ts,js" alt="Go, Python, Rust, TypeScript, JavaScript" /> |
+| **Cloud-Native & DevOps** | <img src="https://skillicons.dev/icons?i=kubernetes,docker,git" alt="Kubernetes, Docker, Git" /> |
+| **Full-Stack** | <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,figma" alt="React, Tailwind CSS, HTML, CSS, Figma" /> |
+| **Data & ML** | <img src="https://go-skill-icons.vercel.app/api/icons?i=py,numpy,pandas,matplotlib,seaborn,mysql" alt="Python, NumPy, Pandas, Matplotlib, Seaborn, MySQL" /> |
+
+---
+
+### GitHub & Problem Solving
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-pi-seven-54.vercel.app/api?username=jakharmonika364&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=7d8590&icon_color=58a6ff&cache_seconds=1800" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-pi-seven-54.vercel.app/api/top-langs/?username=jakharmonika364&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=7d8590&cache_seconds=1800" alt="Top languages" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/monika_jakhar04/"><img src="https://leetcard.jacoblin.cool/monika_jakhar04?theme=dark&font=Inter&border=0&bg_color=0d1117&radius=10" alt="LeetCode stats" /></a>
+</p>
+
+---
+
+### Connect
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <a href="https://www.linkedin.com/in/monika-jakhar-186a04361"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/monika_jakhar04/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://codolio.com/profile/monika5"><img src="https://img.shields.io/badge/Codolio-1F2937?style=for-the-badge" alt="Codolio" /></a>
+  <a href="https://www.geeksforgeeks.org/jakharmoa9a5"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://www.codechef.com/users/monikap25"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://instagram.com/_monika_jakhar05"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-#### 💻 Full-Stack Development
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-</p>
-
-#### ⚙️ DevOps & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-pi-seven-54.vercel.app/api?username=jakharmonika364&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&bg_color=00000000&text_color=f0f6fc&icon_color=58a6ff&cache_seconds=1800&v=2"
-    alt="GitHub Statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-pi-seven-54.vercel.app/api/top-langs/?username=jakharmonika364&layout=compact&theme=transparent&bg_color=00000000&text_color=f0f6fc&cache_seconds=1800&v=2"
-    alt="Most Used Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=jakharmonika364&theme=github-dark-blue&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</p>
-
----
-
-### 🧠 LeetCode
-
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/monika_jakhar04?theme=dark&font=Inter&border=0&bg_color=0d1117&radius=10" alt="LeetCode statistics" />
-</p>
-
----
-
-### 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/jakharmonika364">
-    <img src="https://skillicons.dev/icons?i=github" height="38" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/monika-jakhar-186a04361">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="38" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/monika_jakhar04/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="38" alt="LeetCode" />
-  </a>
-  <a href="https://codolio.com/profile/monika5">
-    <img src="https://www.google.com/s2/favicons?domain=codolio.com&sz=64" height="38" alt="Codolio" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/jakharmoa9a5">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="38" alt="GeeksforGeeks" />
-  </a>
-  <a href="https://www.codechef.com/users/monikap25">
-    <img src="https://cdn.codechef.com/images/cc-logo.svg" height="38" alt="CodeChef" />
-  </a>
-  <a href="https://discord.com/">
-    <img src="https://skillicons.dev/icons?i=discord" height="38" alt="Discord" />
-  </a>
-  <a href="https://instagram.com/_monika_jakhar05">
-    <img src="https://skillicons.dev/icons?i=instagram" height="38" alt="Instagram" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>— simple • focused • evolving —</i>
-</p>
+<p align="center"><i>simple • focused • evolving</i></p>
